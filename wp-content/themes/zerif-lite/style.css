@@ -1426,6 +1426,7 @@ object {
 	text-align: left;
 }
 #main-nav {
+	display: none;
 	position: fixed;
 	width: 100%;
 	z-index: 1000;
